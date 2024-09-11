@@ -4,7 +4,7 @@
 </p>
 
 <h2 align="left" font-weight="bold">Sobre mí</h2>  
-<br>
+<br><br>
 - 🔬 Soy Anderson Human Lara, **Ingeniero Químico** con una gran pasión por la **programación** y los **Sistemas de Información Geográfica (SIG)**.
 - 🧑‍💻 Me encanta programar en **Python** y **R**, y he trabajado en diversos proyectos personales y académicos, que incluyen **mapeo SIG** y análisis de datos.
 - 📊 He desarrollado y compartido códigos que automatizan procesos en ingeniería química y visualizaciones basadas en mapas.
@@ -26,6 +26,7 @@
 </table>
 
 <h3>Programas Especializados</h3>
+<br><br>
 - **Aspen Plus**
 - **MATLAB**
 - **COMSOL Multiphysics**
