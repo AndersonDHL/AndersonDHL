@@ -12,9 +12,8 @@
 - 🌍 Siempre estoy aprendiendo y explorando nuevas tecnologías para combinar la ingeniería con el análisis de datos y la cartografía.
 
 <h1 align="center"></h1>
-<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=AndersonDHL&count_private=true&show_icons=true&theme=tokyonight" />
-<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonDHL&layout=compact&theme=aura&langs_count=9" />
-<img height="150" />
+<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=AndersonDHL&count_private=true&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub de AndersonDHL" />
+
 <br><br>
 
 <h2 font-weight="bold">Habilidades & Tecnologías</h2>
