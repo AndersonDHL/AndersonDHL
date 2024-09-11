@@ -3,13 +3,6 @@
   <a href="https://github.com/AndersonDHL"><img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniero%20Químico;Entusiasta%20de%20la%20Programación;Especialista%20en%20SIG;Coder%20en%20Python%20y%20R&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-<p align='center'>
- <h1 align="center">
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-  <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Explora%20Mis%20Proyectos&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Si%20Te%20Sirve&style=style=flat&color=BC4E99" alt="Star Badge"/>
-</h1>
-
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=AndersonDHL" />
 
 <h1 align="center"></h1>
@@ -60,6 +53,4 @@
 </p>
 
 ------
-Créditos: [zeeid](https://github.com/zeeid)
-
 Última Edición: DD/MM/YYYY
