@@ -17,12 +17,11 @@
 <img height="150" />
 <br><br>
 
-
 <h2 font-weight="bold">Habilidades & Tecnologías</h2>
 <table>
   <tr>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/r-programming-1-1174920.png?raw=true" width="200"></td>
+      <td><img src="https://cran.r-project.org/Rlogo.svg" width="200"></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/AspenTech_Logo.svg/1200px-AspenTech_Logo.svg.png" width="200"></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="200"></td>
   </tr>
