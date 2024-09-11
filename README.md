@@ -27,7 +27,6 @@
 </table>
 
 <h3>Programas Especializados</h3>
-<br>
 
 - **Aspen Plus**
 - **MATLAB**
