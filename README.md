@@ -22,6 +22,7 @@
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png?raw=true" width="150"></td>
       <td><img src="https://cran.r-project.org/Rlogo.svg" width="150"></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="150"></td>
+      <td><img src="https://esupport.aspentech.com/resource/1697545326000/Certification_Icons/Certification_Icons/AspenPlus-apwz-256.png" width="150"></td>
   </tr>
 </table>
 
