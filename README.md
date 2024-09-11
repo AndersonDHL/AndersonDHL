@@ -14,7 +14,7 @@
 <h1 align="center"></h1>
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=AndersonDHL&count_private=true&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub de AndersonDHL" />
 
-<br><br>
+<br>
 
 <h2 font-weight="bold">Habilidades & Tecnologías</h2>
 <table>
