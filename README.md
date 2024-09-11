@@ -34,6 +34,8 @@
 - **AutoCAD para ingeniería**
 - **HYSYS**
 - **Análisis y simulación de procesos químicos**
+- **ArcGIS**
+- **Monitoreo Ambiental**
 
 <h3 align="center">Conecta conmigo 🤝</h3>
 
