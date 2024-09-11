@@ -3,14 +3,6 @@
   <a href="https://github.com/AndersonDHL"><img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniero%20Químico;Entusiasta%20de%20la%20Programación;Especialista%20en%20SIG;Coder%20en%20Python%20y%20R&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=AndersonDHL" />
-
-<h1 align="center"></h1>
-<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=AndersonDHL&count_private=true&show_icons=true&theme=tokyonight" />
-<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonDHL&layout=compact&theme=aura&langs_count=9" />
-<img height="150" />
-<br><br>
-
 <h2 align="left" font-weight="bold">Sobre mí</h2>  
 <br><br>
 
@@ -18,6 +10,13 @@
 - 🧑‍💻 Me encanta programar en **Python** y **R**, y he trabajado en diversos proyectos personales y académicos, que incluyen **mapeo SIG** y análisis de datos.
 - 📊 He desarrollado y compartido códigos que automatizan procesos en ingeniería química y visualizaciones basadas en mapas.
 - 🌍 Siempre estoy aprendiendo y explorando nuevas tecnologías para combinar la ingeniería con el análisis de datos y la cartografía.
+
+<h1 align="center"></h1>
+<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=AndersonDHL&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonDHL&layout=compact&theme=aura&langs_count=9" />
+<img height="150" />
+<br><br>
+
 
 <h2 font-weight="bold">Habilidades & Tecnologías</h2>
 <table>
