@@ -45,7 +45,3 @@
 		<img src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png" width="40" height="40"></a>
       </div>
 </p>
-
-------
-Última Edición: DD/MM/YYYY
-
