@@ -67,31 +67,40 @@
 
 ## ✨ Proyectos Destacados
 
-### 🔬 Simulación de destilación multicomponente  
-📘 *Modelado de columna de destilación con Aspen Plus y análisis de resultados con MATLAB.*  
-📌 **Tecnologías:** Aspen Plus · MATLAB  
-🔗 [Repositorio](https://github.com/AndersonDHL/ejemplo-aspen)
+<div align="center">
 
----
+<table>
+  <tr>
+    <td width="50%">
+      <strong>🔬 Simulación de Destilación</strong><br>
+      Aspen Plus + MATLAB para modelar una columna multicomponente.<br>
+      <b>Tecnologías:</b> Aspen Plus, MATLAB<br>
+      🔗 <a href="https://github.com/AndersonDHL/ejemplo-aspen">Ver proyecto</a>
+    </td>
+    <td width="50%">
+      <strong>🌊 Calidad del Agua y SIG</strong><br>
+      Limpieza y visualización de datos en QGIS + R.<br>
+      <b>Tecnologías:</b> R, QGIS<br>
+      🔗 <a href="https://github.com/AndersonDHL/ejemplo-agua">Ver proyecto</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>⚡ Dashboard Energético</strong><br>
+      Visualización de KPIs energéticos con Power BI.<br>
+      <b>Tecnologías:</b> Power BI, Excel<br>
+      🔗 <a href="https://github.com/AndersonDHL/ejemplo-energia">Ver proyecto</a>
+    </td>
+    <td>
+      <strong>⚗️ Cálculo de Reactores</strong><br>
+      Automatización y visualización de reactores químicos.<br>
+      <b>Tecnologías:</b> Python<br>
+      🔗 <a href="https://github.com/AndersonDHL/ejemplo-reactores">Ver proyecto</a>
+    </td>
+  </tr>
+</table>
 
-### 🌊 Análisis de calidad del agua con R y SIG  
-📘 *Procesamiento y visualización geoespacial de datos de monitoreo ambiental.*  
-📌 **Tecnologías:** R · QGIS · RMarkdown  
-🔗 [Repositorio](https://github.com/AndersonDHL/ejemplo-agua)
-
----
-
-### ⚡ Dashboard de eficiencia energética  
-📘 *Visualización de KPIs energéticos para monitoreo de rendimiento en tiempo real.*  
-📌 **Tecnologías:** Power BI · Excel  
-🔗 [Repositorio](https://github.com/AndersonDHL/ejemplo-energia)
-
----
-
-### ⚗️ Automatización de cálculos de reactores químicos  
-📘 *Script en Python para cálculos de diseño, tiempo de residencia y conversiones en reactores batch, CSTR y PFR.*  
-📌 **Tecnologías:** Python  
-🔗 [Repositorio](https://github.com/AndersonDHL/ejemplo-reactores)
+</div>
 
 ## 📊 Lenguajes más utilizados
 
@@ -111,3 +120,4 @@
     <img src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png" width="40" height="40" alt="GitHub"/>
   </a>
 </p>
+
