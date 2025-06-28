@@ -5,9 +5,6 @@
 
 <h2 align="left" font-weight="bold">Sobre mí</h2>  
 <br />
-
-<h2><b>🔍 Sobre mí</b></h2>
-
 <ul>
   <li>🔬 Soy **Anderson Huamán Lara**, **Ingeniero Químico** apasionado por la programación, los **Sistemas de Información Geográfica (SIG)** y el análisis de datos.</li>
   <li>🐍 Programo en **Python**, **R** y **MATLAB**, aplicando estas herramientas en proyectos personales y académicos relacionados con ingeniería química, cartografía digital y análisis de datos ambientales.</li>
