@@ -25,43 +25,38 @@
   <tr>
     <td align="center" width="120">
       <img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" width="40"><br>
-      <sub><b>Python</b></sub>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
     <td align="center" width="120">
       <img src="https://cran.r-project.org/Rlogo.svg" width="40"><br>
-      <sub><b>R</b></sub>
+      <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white"/>
     </td>
     <td align="center" width="120">
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"><br>
-      <sub><b>MATLAB</b></sub>
+      <img src="https://img.shields.io/badge/-MATLAB-orange?style=flat-square&logo=mathworks&logoColor=white"/>
     </td>
     <td align="center" width="120">
       <img src="https://esupport.aspentech.com/resource/1697545326000/Certification_Icons/Certification_Icons/AspenPlus-apwz-256.png" width="40"><br>
-      <sub><b>Aspen Plus</b></sub>
+      <img src="https://img.shields.io/badge/-Aspen%20Plus-3776AB?style=flat-square"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="120">
       <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40"><br>
-      <sub><b>Excel</b></sub>
+      <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
     </td>
     <td align="center" width="120">
-      <img src="https://seeklogo.com/images/P/power-bi-logo-FBBBF7C9E4-seeklogo.com.png" width="40"><br>
-      <sub><b>Power BI</b></sub>
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/800px-Power_BI_logo.svg.png" width="40"><br>
+      <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
     </td>
     <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/QGIS_logo_new.svg" width="40"><br>
-      <sub><b>QGIS</b></sub>
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Arcgis_Pro_logo.svg/800px-Arcgis_Pro_logo.svg.png" width="40"><br>
+      <img src="https://img.shields.io/badge/-QGIS-589632?style=flat-square"/>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968946.png" width="40"><br>
-      <sub><b>AutoCAD</b></sub>
+      <img src="https://cdn-1.webcatalog.io/catalog/autocad/autocad-icon-filled-256.webp?v=1750639249454" width="40"><br>
+      <img src="https://img.shields.io/badge/-AutoCAD-red?style=flat-square"/>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" width="40"><br>
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   </tr>
 </table>
 
@@ -101,7 +96,7 @@
 ## 📊 Lenguajes más utilizados
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonDHL&layout=compact&theme=gruvbox&hide_title=true&langs_count=8&locale=es&border_radius=12" width="60%" alt="Lenguajes más usados por AndersonDHL"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonDHL&layout=compact&theme=gruvbox&hide_title=true&langs_count=8&locale=es&border_radius=12" width="30%" alt="Lenguajes más usados por AndersonDHL"/>
 </p>
 
 ---
