@@ -4,17 +4,18 @@
 </p>
 
 <h2 align="left" font-weight="bold">Sobre mí</h2>  
-<br>
+<br />
 
-- 🔬 Soy Anderson Human Lara, **Ingeniero Químico** con una gran pasión por la **programación** y los **Sistemas de Información Geográfica (SIG)**.
-- Me encanta programar en **Python** y **R** , y he trabajado en diversos proyectos personales y académicos, que incluyen **mapeo SIG** y análisis de datos.
-- 📊 He desarrollado y compartido códigos que automatizan procesos en ingeniería química y visualizaciones basadas en mapas.
-- 🌍 Siempre estoy aprendiendo y explorando nuevas tecnologías para combinar la ingeniería con el análisis de datos y la cartografía.
+<h2><b>🔍 Sobre mí</b></h2>
 
-<h1 align="center"></h1>
-<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=AndersonDHL&count_private=true&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub de AndersonDHL" />
+<ul>
+  <li>🔬 Soy **Anderson Huamán Lara**, **Ingeniero Químico** apasionado por la programación, los **Sistemas de Información Geográfica (SIG)** y el análisis de datos.</li>
+  <li>🐍 Programo en **Python**, **R** y **MATLAB**, aplicando estas herramientas en proyectos personales y académicos relacionados con ingeniería química, cartografía digital y análisis de datos ambientales.</li>
+  <li>📊 He desarrollado códigos que automatizan procesos en ingeniería química y generan visualizaciones geográficas interactivas.</li>
+  <li>🌍 Me encanta aprender nuevas tecnologías para integrar la ingeniería con el análisis de datos, la cartografía y la sostenibilidad.</li>
+</ul>
 
-<br><br><br><br><br><br><br>
+<br />
 
 <h2 font-weight="bold">Habilidades & Tecnologías</h2>
 <table>
